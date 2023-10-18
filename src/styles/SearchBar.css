@@ -1,0 +1,31 @@
+/* Define your CSS styles here */
+.search-bar-container {
+  display: flex;
+  padding: 2px 4px;
+  align-items: center;
+  width: 300px;
+  margin: 0 auto;
+}
+
+.input-base {
+  flex: 1;
+  padding: 5px;
+}
+
+.icon-button {
+  padding: 10px;
+}
+
+.navbar {
+  display: flex;
+}
+
+h3 {
+  align-items: inherit;
+}
+h1 {
+align-items:inherit;}
+
+.search-bar {
+  align-items: flex-end;
+}
